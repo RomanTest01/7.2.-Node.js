@@ -1,0 +1,27 @@
+{
+  "name": "js2",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanTest01/7.2.-Node.js.git"
+  },
+  "author": "Borisenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanTest01/7.2.-Node.js/issues"
+  },
+  "homepage": "https://github.com/RomanTest01/7.2.-Node.js#readme",
+  "devDependencies": {
+    "cypress": "^13.13.3",
+    "eslint": "^8.48.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^3.0.3"
+  }
+}
